@@ -65,12 +65,7 @@ The **Emergency Response Management System (ERMS)** is a console-based C++ appli
 
 ---
 
-## 📷 Sample Screens
 
-> Console outputs and menu options for both Admin and Staff roles  
-> (Add screenshots if available)
-
----
 
 ## 📄 License
 
